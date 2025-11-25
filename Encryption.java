@@ -6,6 +6,7 @@
  */
 public class Encryption
 {
+    
     public static void main(String[] args){
         
         System.out.println("Welcome to the Encryption / Decryption Program \nEnter 1 for Encrypt | 2 for Decrypt");
